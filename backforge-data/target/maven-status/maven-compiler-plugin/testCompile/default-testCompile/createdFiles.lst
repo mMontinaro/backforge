@@ -1,0 +1,9 @@
+io\backforge\data\facade\BaseFacadeTest$TestDto.class
+io\backforge\data\facade\BaseFacadeTest.class
+io\backforge\data\model\BaseModelTest.class
+io\backforge\data\config\BackforgeJpaConfigurationTest.class
+io\backforge\data\facade\BaseFacadeTest$TestModel.class
+io\backforge\data\repository\BaseRepositoryTest.class
+io\backforge\data\service\BaseServiceTest.class
+io\backforge\data\facade\BaseFacadeTest$HookedFacade.class
+io\backforge\data\service\BaseServiceTest$TestModel.class

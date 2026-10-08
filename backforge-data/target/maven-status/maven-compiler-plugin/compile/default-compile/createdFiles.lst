@@ -1,0 +1,7 @@
+io\backforge\data\config\BackforgeJpaConfiguration.class
+io\backforge\data\package-info.class
+io\backforge\data\mapping\ModelMapper.class
+io\backforge\data\repository\BaseRepository.class
+io\backforge\data\facade\BaseFacade.class
+io\backforge\data\service\BaseService.class
+io\backforge\data\model\BaseModel.class
