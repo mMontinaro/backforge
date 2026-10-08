@@ -25,3 +25,7 @@ replay_pid*
 
 .m2
 .vscode
+
+# Agents
+AGENTS.MD
+agent_docs/
